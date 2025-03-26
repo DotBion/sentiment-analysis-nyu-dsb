@@ -1,6 +1,6 @@
 #TEAM : DATA BUSTERS
 
-# sentiment-analysis-nyu-dcb
+# sentiment-analysis-nyu-dsb
 
 #Dataset: Social Media Sentiment Analysis Dataset 
 https://www.kaggle.com/datasets/kashishparmar02/social-media-sentiments-analysis-dataset/code
